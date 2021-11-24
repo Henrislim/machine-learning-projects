@@ -1,5 +1,5 @@
 # Introduction
-In this repository, I present some interesting Machine Learning projects to predict to explore interesting information from real data.
+In this repository, I present some interesting Machine Learning projects to predict/explore interesting information from real-life data.
 Each file is an independant project, and datasets have been included in these projects.
 
 # [Lending Club:](lending_club.ipynb)
